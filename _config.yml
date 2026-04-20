@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: SoloID Idp documentation
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://signaturgruppen-a-s.github.io/soloid-idp-documentation
+logo: "/assets/broker-logo.png"
+favicon_ico: "/assets/favicon.ico"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  GitHub Repository: https://github.com/Signaturgruppen-A-S/soloid-idp-documentation
