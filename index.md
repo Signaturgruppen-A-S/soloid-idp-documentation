@@ -24,13 +24,15 @@ This identity provider also supports various ways to connect multiple identities
 | MitID |  
 | SoloID Authenticator |
 | Passkey | 
-| MobilePay |
+| MobilePay *(Planned)*|
 
 ## OIDC and SAML
 The identity provider supports both OIDC and SAML.
 
 ### OIDC
-The OIDC integration is done through our broker. See the documentation for the integration at [SOLOID – Signaturgruppen Broker Documentation](https://signaturgruppen-a-s.github.io/signaturgruppen-broker-documentation/idps/soloid.html)
+The OIDC integration is done through our broker. See the documentation for the integration at [SoloID – Signaturgruppen Broker Documentation](https://signaturgruppen-a-s.github.io/signaturgruppen-broker-documentation/idps/soloid.html)
+
+You can also test the flow through [Broker – Demo](https://brokerdemo.signaturgruppen.dk/) by selecting SoloID under advanced options
 
 ### SAML
 For SAML integration, contact us.
